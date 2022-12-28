@@ -1,0 +1,263 @@
+<!doctype html>
+<!--
+        /((((((\\\\
+=======((((((((((\\\\\
+     ((           \\\\\\\
+     ( (*    _/      \\\\\\\
+       \    /  \      \\\\\\________________
+        |  |   |       </                  ((\\\\
+        o_|   /        /                      \ \\\\    \\\\\\\
+             |  ._    (                        \ \\\\\\\\\\\\\\\\
+             | /                       /       /    \\\\\\\     \\
+     .______/\/     /                 /       /         \\\
+    / __.____/    _/         ________(       /\
+   / / / ________/`_________'         \     /  \_
+  / /  \ \                             \   \ \_  \
+ ( <    \ \                             >  /    \ \
+  \/     \\_                           / /       > )
+          \_|                         / /       / /
+                                    _//       _//
+                                   /_|       /_|
+-->
+<html lang="en">
+  <head>
+    <title> | Martha Stewart</title>
+    <meta charset="utf-8">
+    <link rel="shortcut icon" href="/favicon.ico" type="image/vnd.microsoft.icon">
+    <link rel="icon" href="/img/favicons/favicon-32.png" sizes="32x32">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link rel="apple-touch-icon" href="/img/favicons/favicon-57.png">
+    <link rel="apple-touch-icon" href="/img/favicons/favicon-57.png" sizes="57x57">
+    <link rel="apple-touch-icon" href="/img/favicons/favicon-72.png" sizes="72x72">
+    <link rel="apple-touch-icon" href="/img/favicons/favicon-76.png" sizes="76x76">
+    <link rel="apple-touch-icon" href="/img/favicons/favicon-114.png" sizes="114x114">
+    <link rel="apple-touch-icon" href="/img/favicons/favicon-120.png" sizes="120x120">
+    <link rel="apple-touch-icon" href="/img/favicons/favicon-144.png" sizes="144x144">
+    <link rel="apple-touch-icon" href="/img/favicons/favicon-152.png" sizes="152x152">
+    <link rel="apple-touch-icon" href="/img/favicons/favicon-180.png" sizes="180x180">
+    <link rel="icon" sizes="192x192" href="/img/favicons/favicon-192.png">
+    <link rel="manifest" href="/manifest.json">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no">
+      <meta name="keywords" content="People, Fashion, Lifestyle, Entertainment, Cooking">
+        <meta name="news_keywords" content="People, Fashion, Lifestyle, Entertainment, Cooking">
+    <meta name="description" content="News from around the web.">
+    <link rel="canonical" href="https://www.marthastewart.com/sites/files/marthastewart.com/imagecache/wmax-520-highdpi/ecl/images/content/pub/ms_living/2007Q4/la102874_1107_brine_vert.jpg">
+      <meta property="og:title" content="https://www.marthastewart.com">
+    <meta property="og:type" content="article">
+    <meta property="og:site_name" content="Martha Stewart">
+      <meta property="og:url" content="https://www.marthastewart.com/sites/files/marthastewart.com/imagecache/wmax-520-highdpi/ecl/images/content/pub/ms_living/2007Q4/la102874_1107_brine_vert.jpg">
+      <meta property="og:description" content="News from around the web. ">
+      <meta name="pinterest:url" content="https://www.marthastewart.com/sites/files/marthastewart.com/imagecache/wmax-520-highdpi/ecl/images/content/pub/ms_living/2007Q4/la102874_1107_brine_vert.jpg">
+      <meta name="twitter:card" content="summary_large_image">
+      <meta name="twitter:url" content="https://www.marthastewart.com/sites/files/marthastewart.com/imagecache/wmax-520-highdpi/ecl/images/content/pub/ms_living/2007Q4/la102874_1107_brine_vert.jpg">
+      <meta name="twitter:title" content="https://www.marthastewart.com">
+      <meta name="twitter:description" content="News from around the web.">
+      <meta name="pinterest:description" content="News from around the web.">
+    <meta name="twitter:site" content="@marthaliving">
+    <meta name="pinterest:media" content="http://www.marthastewart.com/img/misc/og-default.png">
+    <meta name="twitter:image" content="http://www.marthastewart.com/img/misc/og-default.png">
+    <meta property="og:image" content="http://www.marthastewart.com/img/misc/og-default.png">
+    <meta name="robots" content="noindex, nofollow">
+    <meta property="fb:app_id" content="165082593548215">
+    <meta property="fb:pages" content="10053803772">
+    <!-- For FB News Service; If the page is a gallery or article AND we have a valid obj in response AND the config object is set -->
+      <script type="application/ld+json">
+        [{"@context":"http://schema.org","@type":"Organization","name":"Martha Stewart","url":"https://www.marthastewart.com","logo":{"@type":"ImageObject","url":"https://www.marthastewart.com/img/logo.png","width":209,"height":60},"sameAs":["https://www.facebook.com/marthastewart/","https://twitter.com/marthaliving/","https://www.pinterest.com/marthastewart/","https://www.instagram.com/marthastewart/","https://www.youtube.com/user/marthastewart/"]},{"@context":"https://schema.org","@type":"SiteNavigationElement","name":[["FOOD","DIY","HOLIDAYS","ENTERTAINING","HOME","GARDENING","CLEANING & ORGANIZING","BEAUTY & WELLNESS","LIFE","SHOP","MARTHA'S BLOG","WEDDINGS",null,null,null]],"url":[["https://www.marthastewart.com/1509043/food-cooking","https://www.marthastewart.com/1502461/diy-projects-crafts","https://www.marthastewart.com/1505740/holiday-planning-and-ideas","https://www.marthastewart.com/1505862/entertaining","https://www.marthastewart.com/1509047/home","https://www.marthastewart.com/1504574/gardening","undefinedundefined","undefinedundefined","https://www.marthastewart.com/1537291/life","https://www.marthastewart.com/1144514/shop","https://www.themarthablog.com/","https://www.marthastewartweddings.com/","undefinedundefined","undefinedundefined","undefinedundefined"]]}]
+      </script>
+    <script>
+      function getQueryParam(paramName) {
+        var query = window.location.search.substring(1);
+        var params = query.split('&');
+        for (var i = 0; i < params.length; i += 1) {
+          var pair = params[i].split('=');
+          if (pair[0] === paramName) {
+            return pair[1];
+          }
+        }
+        return false;
+      };
+      function removeURLParameter(url, param) {
+        var urlParts = url.split('?');
+        if (urlParts.length >= 2) {
+          var prefix = "".concat(encodeURIComponent(param), "=");
+          var params = urlParts[1].split(/[&;]/g);
+          for (var i = params.length - 1; i >= 0; i -= 1) {
+            if (params[i].lastIndexOf(prefix, 0) !== -1) {
+              params.splice(i, 1);
+            }
+          }
+          url = urlParts[0];
+          if (params.length > 0) {
+            url += "?".concat(params.join('&'));
+          }
+          return url;
+        }
+        return url;
+      };
+      function setCookie(cookieName, value, daysToExpire) {
+        var expires = '';
+        if (daysToExpire) {
+          var date = new Date();
+          date.setTime(date.getTime() + daysToExpire * 24 * 60 * 60 * 1000);
+          expires = "; expires=".concat(date.toGMTString());
+        }
+        if (expires !== '') {
+          document.cookie = "".concat(cookieName, "=").concat(value).concat(expires, "; path=/");
+        }
+        return true;
+      };
+      (function(){
+        var hid = getQueryParam('hid');
+        if (!hid) {
+          return;
+        }
+        setCookie('hid', hid, 90);
+        window.location.replace(removeURLParameter(window.location.href, 'hid'));
+      })();
+    </script>
+    
+    
+    <script defer src="/dist/main.js"></script>
+    <script defer src="//native.sharethrough.com/assets/sfp.js"></script>
+    <script>
+      WebFontConfig = {
+        google: { families: ["Lora:400,400i,700,700i", "Nunito+Sans:400,400i,700,700i"] }
+      };
+      (function() {
+        var wf = document.createElement('script');
+        wf.src = ('https:' == document.location.protocol ? 'https' : 'http') +
+            '://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js';
+        wf.async = 'true';
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(wf, s);
+      })();
+    </script>
+    <script>
+      !function(){var analytics=window.analytics=window.analytics||[];if(!analytics.initialize)if(analytics.invoked)window.console&&console.error&&console.error("Segment snippet included twice.");else{analytics.invoked=!0;analytics.methods=["trackSubmit","trackClick","trackLink","trackForm","pageview","identify","reset","group","track","ready","alias","debug","page","once","off","on"];analytics.factory=function(t){return function(){var e=Array.prototype.slice.call(arguments);e.unshift(t);analytics.push(e);return analytics}};for(var t=0;t<analytics.methods.length;t++){var e=analytics.methods[t];analytics[e]=analytics.factory(e)}analytics.load=function(t){var e=document.createElement("script");e.async=!0;e.src=("https:"===document.location.protocol?"https://":"http://")+"cdn.segment.com/analytics.js/v1/"+t+"/analytics.min.js";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(e,n)};analytics.SNIPPET_VERSION="4.0.0";
+      analytics.load('qwOg4Likk1DBKEsxN585W9zvcUWwcapx');
+      }}();
+    </script>
+    <script>
+      window.ELEMENT_CLIENT_CONFIG = {
+        brand_public_folder: null
+      };
+    </script>
+    
+    <script>
+    window.NREUM||(NREUM={}),__nr_require=function(t,n,e){function r(e){if(!n[e]){var o=n[e]={exports:{}};t[e][0].call(o.exports,function(n){var o=t[e][1][n];return r(o||n)},o,o.exports)}return n[e].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<e.length;o++)r(e[o]);return r}({1:[function(t,n,e){function r(t){try{s.console&&console.log(t)}catch(n){}}var o,i=t("ee"),a=t(15),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,o.indexOf("dev")!==-1&&(s.dev=!0),o.indexOf("nr_dev")!==-1&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,n,e){r(e.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,n){return t}).join(", ")))},{}],2:[function(t,n,e){function r(t,n,e,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,n,e)])}catch(s){try{i("ierr",[s,c.now(),!0])}catch(u){}}return"function"==typeof f&&f.apply(this,a(arguments))}function UncaughtException(t,n,e){this.message=t||"Uncaught error with no additional information",this.sourceURL=n,this.line=e}function o(t){i("err",[t,c.now()])}var i=t("handle"),a=t(16),s=t("ee"),c=t("loader"),f=window.onerror,u=!1,d=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),u=!0)}s.on("fn-start",function(t,n,e){u&&(d+=1)}),s.on("fn-err",function(t,n,e){u&&(this.thrown=!0,o(e))}),s.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),s.on("internal-error",function(t){i("ierr",[t,c.now(),!0])})},{}],3:[function(t,n,e){t("loader").features.ins=!0},{}],4:[function(t,n,e){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7),c="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState",g=t("loader");g.features.stn=!0,t(6);var b=NREUM.o.EV;o.on(m,function(t,n){var e=t[0];e instanceof b&&(this.bstStart=g.now())}),o.on(w,function(t,n){var e=t[0];e instanceof b&&i("bst",[e,n,this.bstStart,g.now()])}),a.on(m,function(t,n,e){this.bstStart=g.now(),this.bstType=e}),a.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),this.bstType])}),s.on(m,function(){this.bstStart=g.now()}),s.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=g.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+c]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+c]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+c]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,n,e){function r(t){for(var n=t;n&&!n.hasOwnProperty(u);)n=Object.getPrototypeOf(n);n&&o(n)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,n){return t[1]}var a=t("ee").get("events"),s=t(18)(a,!0),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";n.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,n){var e=t[1],r=c(e,"nr@wrapped",function(){function t(){if("function"==typeof e.handleEvent)return e.handleEvent.apply(e,arguments)}var n={object:t,"function":e}[typeof e];return n?s(n,"fn-",null,n.name||"anonymous"):e});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,n,e){var r=t("ee").get("history"),o=t(18)(r);n.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,n,e){var r=t("ee").get("raf"),o=t(18)(r),i="equestAnimationFrame";n.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,n,e){function r(t,n,e){t[0]=a(t[0],"fn-",null,e)}function o(t,n,e){this.method=e,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,e)}var i=t("ee").get("timer"),a=t(18)(i),s="setTimeout",c="setInterval",f="clearTimeout",u="-start",d="-";n.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],9:[function(t,n,e){function r(t,n){d.inPlace(n,["onreadystatechange"],"fn-",s)}function o(){var t=this,n=u.context(t);t.readyState>3&&!n.resolved&&(n.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,w,"fn-",s)}function i(t){v.push(t),h&&(g=-g,b.data=g)}function a(){for(var t=0;t<v.length;t++)r([],v[t]);v.length&&(v=[])}function s(t,n){return n}function c(t,n){for(var e in t)n[e]=t[e];return n}t(5);var f=t("ee"),u=f.get("xhr"),d=t(18)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",w=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],v=[];n.exports=u;var y=window.XMLHttpRequest=function(t){var n=new p(t);try{u.emit("new-xhr",[n],n),n.addEventListener(m,o,!1)}catch(e){try{u.emit("internal-error",[e])}catch(r){}}return n};if(c(p,y),y.prototype=p.prototype,d.inPlace(y.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,n){r(t,n),i(n)}),u.on("open-xhr-start",r),h){var g=1,b=document.createTextNode(g);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],10:[function(t,n,e){function r(t){var n=this.params,e=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!n.aborted){if(e.duration=a.now()-this.startTime,4===t.readyState){n.status=t.status;var i=o(t,this.lastSize);if(i&&(e.rxSize=i),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;e.cbTime=this.cbTime,f.emit("xhr-done",[t],t),s("xhr",[n,e,this.startTime])}}}function o(t,n){var e=t.responseType;if("json"===e&&null!==n)return n;var r="arraybuffer"===e||"blob"===e||"json"===e?t.response:t.responseText;return h(r)}function i(t,n){var e=c(n),r=t.params;r.host=e.hostname+":"+e.port,r.pathname=e.pathname,t.sameOrigin=e.sameOrigin}var a=t("loader");if(a.xhrWrappable){var s=t("handle"),c=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var n=this;n.totalCbs=0,n.called=0,n.cbTime=0,n.end=r,n.ended=!1,n.xhrGuids={},n.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){n.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,n){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&n.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,n){var e=this.metrics,r=t[0],o=this;if(e&&r){var i=h(r);i&&(e.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof n.onload))&&o.end(n)}catch(e){try{f.emit("internal-error",[e])}catch(r){}}};for(var s=0;s<d;s++)n.addEventListener(u[s],this.listener,!1)}),f.on("xhr-cb-time",function(t,n,e){this.cbTime+=t,n?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof e.onload||this.end(e)}),f.on("xhr-load-added",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&!this.xhrGuids[e]&&(this.xhrGuids[e]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&this.xhrGuids[e]&&(delete this.xhrGuids[e],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],n)}),f.on("removeEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],n)}),f.on("fn-start",function(t,n,e){n instanceof m&&("onload"===e&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),f.on("fn-end",function(t,n){this.xhrCbStart&&f.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,n],n)})}},{}],11:[function(t,n,e){n.exports=function(t){var n=document.createElement("a"),e=window.location,r={};n.href=t,r.port=n.port;var o=n.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=n.hostname||e.hostname,r.pathname=n.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!n.protocol||":"===n.protocol||n.protocol===e.protocol,a=n.hostname===document.domain&&n.port===e.port;return r.sameOrigin=i&&(!n.hostname||a),r}},{}],12:[function(t,n,e){function r(){}function o(t,n,e){return function(){return i(t,[f.now()].concat(s(arguments)),n?null:this,e),n?void 0:this}}var i=t("handle"),a=t(15),s=t(16),c=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,n){u[n]=o(l+n,!0,"api")}),u.addPageAction=o(l+"addPageAction",!0),u.setCurrentRouteName=o(l+"routeName",!0),n.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,n){var e={},r=this,o="function"==typeof n;return i(p+"tracer",[f.now(),t,e],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],e),o)try{return n.apply(this,arguments)}finally{c.emit("fn-end",[f.now()],e)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,n){h[n]=o(p+n)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now()])}},{}],13:[function(t,n,e){n.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(n){return}}}},{}],14:[function(t,n,e){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),n.exports=r},{}],15:[function(t,n,e){function r(t,n){var e=[],r="",i=0;for(r in t)o.call(t,r)&&(e[i]=n(r,t[r]),i+=1);return e}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],16:[function(t,n,e){function r(t,n,e){n||(n=0),"undefined"==typeof e&&(e=t?t.length:0);for(var r=-1,o=e-n||0,i=Array(o<0?0:o);++r<o;)i[r]=t[n+r];return i}n.exports=r},{}],17:[function(t,n,e){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],18:[function(t,n,e){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(16),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;n.exports=function(t,n){function e(t,n,e,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof e?e(r,a):e||{}}catch(f){l([f,"",[r,a,o],s])}u(n+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(d){throw u(n+"err",[r,a,d],s),d}finally{u(n+"end",[r,a,c],s)}}return r(t)?t:(n||(n=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function u(e,r,o){if(!c||n){var i=c;c=!0;try{t.emit(e,r,o,n)}catch(a){l([a,e,r,o])}c=i}}function d(t,n){if(Object.defineProperty&&Object.keys)try{var e=Object.keys(t);return e.forEach(function(e){Object.defineProperty(n,e,{get:function(){return t[e]},set:function(n){return t[e]=n,n}})}),n}catch(r){l([r])}for(var o in t)s.call(t,o)&&(n[o]=t[o]);return n}function l(n){try{t.emit("internal-error",n)}catch(e){}}return t||(t=o),e.inPlace=f,e.flag=a,e}},{}],ee:[function(t,n,e){function r(){}function o(t){function n(t){return t&&t instanceof r?t:t?c(t,s,i):i()}function e(e,r,o,i){if(!l.aborted||i){t&&t(e,r,o);for(var a=n(o),s=h(e),c=s.length,f=0;f<c;f++)s[f].apply(a,r);var d=u[y[e]];return d&&d.push([g,e,r,a]),a}}function p(t,n){v[t]=h(t).concat(n)}function h(t){return v[t]||[]}function m(t){return d[t]=d[t]||o(e)}function w(t,n){f(t,function(t,e){n=n||"feature",y[e]=n,n in u||(u[n]=[])})}var v={},y={},g={on:p,emit:e,get:m,listeners:h,context:n,buffer:w,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var s="nr@context",c=t("gos"),f=t(15),u={},d={},l=n.exports=o();l.backlog=u},{}],gos:[function(t,n,e){function r(t,n,e){if(o.call(t,n))return t[n];var r=e();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(t,n,e){function r(t,n,e,r){o.buffer([t],r),o.emit(t,n,e)}var o=t("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(t,n,e){function r(t){var n=typeof t;return!t||"object"!==n&&"function"!==n?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");n.exports=r},{}],loader:[function(t,n,e){function r(){if(!x++){var t=b.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&n))return u.abort();f(y,function(n,e){t[n]||(t[n]=e)}),c("mark",["onload",a()+b.offset],null,"api");var e=l.createElement("script");e.src="https://"+t.agent,n.parentNode.insertBefore(e,n)}}function o(){"complete"===l.readyState&&i()}function i(){c("mark",["domContent",a()+b.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(s=Math.max((new Date).getTime(),s))-b.offset}var s=(new Date).getTime(),c=t("handle"),f=t(15),u=t("ee"),d=window,l=d.document,p="addEventListener",h="attachEvent",m=d.XMLHttpRequest,w=m&&m.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:m,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1026.min.js"},g=m&&w&&w[p]&&!/CriOS/.test(navigator.userAgent),b=n.exports={offset:s,now:a,origin:v,features:{},xhrWrappable:g};t(12),l[p]?(l[p]("DOMContentLoaded",i,!1),d[p]("load",r,!1)):(l[h]("onreadystatechange",o),d[h]("onload",r)),c("mark",["firstbyte",s],null,"api");var x=0,E=t(17)},{}]},{},["loader",2,10,4,3]);
+    ;NREUM.info={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",licenseKey:"f3eaa0b81a",applicationID:"49323689",sa:1}
+    </script>
+    <link rel="dns-prefetch" href="//tia.timeinc.net">
+    <link rel="dns-prefetch" href="//imagesvc.meredithcorp.io">
+    <link rel="dns-prefetch" href="//ape-asset-tag.timeinc.com">
+    <link rel="dns-prefetch" href="//cdn.segment.com">
+    <link rel="dns-prefetch" href="//subscription-assets.timeinc.com">
+      <link rel="stylesheet" type="text/css"
+            href="/dist/style.css">
+      
+      <script>
+          var linkElement = document.querySelector("link[href='/dist/style.css']");
+          linkElement.onload = function(){
+              var evt = new Event('global:blocking-css-loaded');
+              window.dispatchEvent(evt);
+          };
+      </script>
+  </head>
+  <body class="template-gdpr disable-ads is-from-eu karma-site-container no-js" data-current-env="production" data-caas-sitename="msl" data-recommendations-proximity-url="https://recommendation.meredith.services/v2/Proximity" data-recommendations-aggregates-url="https://recommendation.meredith.services/v2/Aggregates" data-recommendations-contains-url="https://recommendation.meredith.services/v2/Contains" data-search-api-url="https://search.meredith.services/v2/search" data-dynamic-nav-id="cms/onecms_posts_msl_explore">
+    
+
+<div class="component gdpr"
+   data-api="https://privacyportal-de.onetrust.com/request/v1/consentreceipts" data-token="eyJhbGciOiJSUzUxMiJ9.eyJwcm9jZXNzSWQiOiI3ZmFhZGE4MC1mM2ExLTRhMWMtOGZjNC0yZGIyOGRjOGFiY2MiLCJpYXQiOiIyMDE4LTA1LTE5VDEyOjQ4OjM4Ljc5IiwibW9jIjoiV0VCX0ZPUk0iLCJzdWIiOiJVSUQiLCJpc3MiOiIiLCJ0ZW5hbnRJZCI6IjIxNTljNDgyLTc0OWEtNDlkYi05MTZiLTQ3NTAxN2E5ZWZhNSIsImRlc2NyaXB0aW9uIjoiQWxsb3cgTWVyZWRpdGggdG8gdHJhY2sgdXNlciBiZWhhdmlvciBhbmQgdGFyZ2V0IGZvciBhZHZlcnRpc2luZyBwdXJwb3Nlcy4iLCJjb25zZW50VHlwZSI6IkZPUk1TVUJNSVQiLCJwb2xpY3lfdXJpIjoiIiwicHVycG9zZXMiOlt7ImlkIjoiNjU2MzkzNzctMDU3ZC00ZjgzLWI4NTgtOWFhMzMwZmM5ZjZhIiwidG9waWNzIjpbXX1dLCJkc0RhdGFFbGVtZW50cyI6W119.ik7J0zJKNCQYKW2rgx4wwNJhHpX6WcMz5kpblSNvTlyXrbXSKX4oR23UPwalXQ_c6mag3_9Y6vYAK6Hzv9_Zk8jj8i8jK7PSyu33H7HzOPNAOCMRZ3drJVG4ri8SZ2GYzka0BdjDrd2qDzUnpjsGdC145tDOSYAw_Xq5BbntjXukPmGni4lqXyeohSfzbOJ2pUhrfNpmJPu8DIpKeImctyuG8-FUS8kKynOzjHWKOR5AR2753eTbx23UYD9hqxkOJu-PHcKvpdYb2UISUjmxZgl39tIHWyjQMESxLZNVgkfBmyUAbLSh1g00wvyeZW4-1hrrVjaEsX-UD4xY9P6TB_H0cPJg6QdVddZUTq8tw0lEXL75Qr-ZAZX9fefFdUfupEVOl5ega7tSnCna-lH17wLD0m-KTvraR7_2y9e6D-WJLb7ubQz-grEHMky5jakdYAawfzaHpvwIRWac7YRX2TunSJsdJpSfM80jXKswOLi4kgK3yrVWMdjXTqngSt_B9dznVf9a3Fsbens_wZ8WoYK91lobmn_t5asll__gIF4yE-ziRNrd8wed9YZGli4xK1jhNBqgMs6OUkk7R7V7IYgUmacA-5fOO_giQL7gnjuu-yMSqukeXnlpT4F0jd7VMXISlWGzGumCYYGGUCU1wlfkgzhVP1bxlhbBV3aOZlw" data-purposes="%5B%7B%22Id%22%3A%2265639377-057d-4f83-b858-9aa330fc9f6a%22%7D%5D"
+  >
+  <div class="gdpr-header">
+    <svg xmlns="http://www.w3.org/2000/svg" width="297" height="32" viewBox="0 0 297 32"><path d="M11.954 30.745l-3.382-.211V14.658c2.364-2.441 3.44-3.255 5.1-3.255 2.27 0 3.282 1.364 3.282 4.423v14.709l-2.579.212v.696h10.687v-.698l-3.383-.211V14.86c1.972-2.457 3.452-3.458 5.1-3.458 2.27 0 3.281 1.364 3.281 4.423v14.709l-2.577.212v.696h10.685v-.698l-3.383-.211V16.08c0-4.06-2.092-6.483-5.596-6.483-2.947 0-5.233 1.266-7.636 4.228h-.156c-.604-2.69-2.535-4.228-5.314-4.228-3.207 0-5.174 1.455-7.292 3.805h-.217V9.597h-.575l-7.017.422-.134.007v.699H3.85V30.53l-3.424.211v.7h11.53v-.697h-.002zm34.093-9.091c-3.036 1.075-6.141 2.574-6.141 5.546 0 2.835 1.982 4.666 5.047 4.666 2.5 0 4.13-.782 6.425-2.324h.238v2.324h.57l7.536-.43v-.7H56.34V15.191c0-3.609-2.498-5.595-7.033-5.595-4.478 0-8.556 2.445-8.556 5.13a2.429 2.429 0 0 0 2.426 2.426c1.763 0 2.552-1.196 2.552-2.383 0-1.137-.824-2.283-2.664-2.299v-.214c1.078-.918 3.12-1.657 4.593-1.657 2.7 0 3.959 1.298 3.959 4.085v5.098l-5.57 1.871zm5.57-1.143v8.164c-1.184.563-2.191.793-3.451.793-2.149 0-3.537-1.337-3.537-3.409 0-2.17.958-3.366 3.414-4.263l3.574-1.285zm20.785 10.234l-3.382-.211V17.507c1.285-2.865 2.274-4.507 3.295-5.47h.236c.184 1.917 1.52 2.791 2.711 2.791 1.25 0 2.595-.852 2.595-2.722 0-1.407-1.195-2.51-2.723-2.51-2.137 0-3.965 1.735-5.92 5.625h-.194V9.597h-.574l-7.018.422-.133.007v.699h3.002V30.53l-3.424.211v.7h11.53v-.697zM82.6 26.65c0 3.558 1.468 5.215 4.624 5.215 2.023 0 3.799-.446 5.939-1.493l.08-.039v-.723l-.197.08c-1.294.527-2.215.75-3.074.75-1.634 0-2.649-.677-2.649-4.044V10.938h5.92v-.92h-5.92V4.947h-.634l-4.018 5.078-3.199.216v.698h3.13V26.65H82.6zm24.168 4.095l-3.382-.211V14.658c2.417-2.494 3.675-3.255 5.356-3.255 2.323 0 3.453 1.446 3.453 4.423v14.709l-2.58.212v.696H120.3v-.698l-3.381-.211V16.08c0-4.06-2.092-6.483-5.596-6.483-2.904 0-5.215 1.138-7.713 3.805h-.223V.295h-.572l-7.018.422-.134.009v.699h3.003v29.107l-3.425.212v.699h11.528v-.698zm21.412-9.091c-3.037 1.075-6.14 2.574-6.14 5.546 0 2.835 1.98 4.666 5.047 4.666 2.5 0 4.13-.782 6.425-2.324h.24v2.324h.567l7.537-.43v-.7h-3.383V15.191c0-3.609-2.498-5.595-7.032-5.595-4.478 0-8.556 2.445-8.556 5.13a2.427 2.427 0 0 0 2.425 2.426c1.763 0 2.551-1.196 2.551-2.383 0-1.137-.824-2.283-2.664-2.299v-.214c1.08-.918 3.122-1.657 4.594-1.657 2.7 0 3.959 1.298 3.959 4.085v5.098l-5.57 1.871zm5.571-1.143v8.164c-1.185.563-2.19.793-3.453.793-2.148 0-3.536-1.337-3.536-3.409 0-2.17.959-3.366 3.416-4.263l3.573-1.285zm28.704-2.574c-2.123-.825-4.39-1.918-4.39-4.434 0-1.951 1.487-3.368 3.534-3.368 1.214 0 2.35.458 3.368 1.354 1.15 1.153 2.039 2.64 2.714 4.554l.033.094h.666v-6.75h-.695l-.199 2.034c-2.302-1.677-4.486-2.035-5.93-2.035-4.533 0-7.583 2.436-7.583 6.06 0 3.556 2.22 5.178 5.793 6.643 2.679 1.171 4.99 2.181 4.99 4.817 0 2.394-1.711 4.001-4.256 4.001-1.377 0-2.55-.58-3.487-1.729-.921-1.04-1.715-2.41-2.427-4.186l-.034-.088h-.662v6.75h.694l.2-2.16c1.407 1.021 3.599 2.16 6.352 2.16 4.89 0 8.175-2.655 8.175-6.608 0-3.963-3.243-5.624-6.856-7.109zm16.998-13.201h-.634l-4.018 5.078-3.2.215v.696h3.13v15.714c0 3.558 1.468 5.214 4.624 5.214 2.023 0 3.8-.446 5.94-1.493l.08-.038V29.4l-.197.08c-1.294.525-2.215.75-3.075.75-1.635 0-2.648-.678-2.648-4.044v-15.46h5.92V9.81h-5.92V4.736h-.002zm26.07 19.989c-.917 1.792-3.539 3.645-6.342 3.645-4.263 0-7.25-3.858-7.3-9.4h13.887l.02-.12c.148-.93.213-1.603.213-2.177 0-5.373-4.134-7.287-8.006-7.287-5.344 0-10.754 3.854-10.754 11.22 0 2.955.955 5.686 2.689 7.685 1.905 2.201 4.59 3.362 7.769 3.362 4.717 0 7.718-3.54 8.51-6.83l.042-.175h-.69l-.038.077zm-4.519-6.668l-9.03.206c.344-5.194 2.457-8.17 5.812-8.17 1.729 0 3.578 1.308 3.578 4.974-.002.89-.161 1.883-.36 2.99zm42.073-7.575V9.81h-8.149v.668l3.348 1.045-4.79 15.58h-.213l-5.033-16.387 3.414-.202.134-.005v-.7h-11.53v.696l2.574.213 1.604 4.73-3.633 11.654h-.216l-5.574-16.389 2.95-.207V9.81h-10.939v.695l2.535.214 7.578 20.63.034.094h3.038l4.09-12.909.545-1.743 4.976 14.557.033.095h3.039l6.307-19.896 3.773-1.037zm16.061 4.501c0-3.609-2.498-5.595-7.032-5.595-4.48 0-8.556 2.445-8.556 5.13a2.429 2.429 0 0 0 2.426 2.425c1.762 0 2.55-1.198 2.55-2.385 0-1.136-.824-2.283-2.664-2.297v-.215c1.08-.918 3.122-1.657 4.595-1.657 2.7 0 3.958 1.3 3.958 4.087v5.098l-5.57 1.869c-3.037 1.075-6.142 2.574-6.142 5.545 0 2.835 1.983 4.665 5.049 4.665 2.504 0 4.132-.783 6.424-2.324h.239v2.324h.568l7.404-.422.134-.007v-.697h-3.383V14.983zm-4.725 5.317v8.165c-1.185.562-2.19.793-3.453.793-2.148 0-3.535-1.339-3.535-3.41 0-2.169.958-3.365 3.416-4.263l3.572-1.285zm24.364-10.914c-2.14 0-3.965 1.735-5.922 5.624h-.195V9.386h-.57l-7.152.432v.696h3.002v19.808l-3.424.212v.696h11.528v-.696l-3.384-.212V17.294c1.285-2.865 2.277-4.507 3.297-5.47h.236c.183 1.917 1.52 2.791 2.71 2.791 1.25 0 2.593-.85 2.593-2.72.001-1.406-1.193-2.509-2.719-2.509zm18.193 1.34V9.81h-5.92V4.736h-.635l-4.019 5.078-3.197.215v.696h3.128v15.714c0 3.558 1.467 5.214 4.623 5.214 2.026 0 3.803-.446 5.94-1.493l.08-.038V29.4l-.197.08c-1.293.525-2.212.75-3.075.75-1.634 0-2.647-.678-2.647-4.044v-15.46h5.918z" fill-opacity=".95"/></svg>
+    <h3 class="subheader">About Your Privacy on this Site</h3>
+  </div>
+  <div class="gdpr-legal-copy">
+    <p>Welcome! Meredith collects data to deliver the best content, services, and personalized digital ads.  We partner with third party advertisers, who may use tracking technologies to collect information about your activity on sites and applications across devices, both on our sites and across the Internet.</p>
+    
+    <p>You always have the choice to experience our sites without personalized advertising based on your web browsing activity by visiting the <a href="http://optout.aboutads.info/?c=2#!/" target="_blank">DAA's Consumer Choice page</a>, the <a href="http://optout.networkadvertising.org/?c=1#!/" target="_blank">NAI's website</a>, and/or the <a href="http://www.youronlinechoices.com/" target="_blank">EU online choices page</a>, from each of your browsers or devices. To avoid personalized advertising based on your mobile app activity, you can install the <a href="http://www.aboutads.info/appchoices" target="_blank">DAA's AppChoices app here</a>. You can find much more information about your privacy choices in <a href="https://subscription.timeinc.com/storefront/privacy/marthastewart/generic_privacy_new.html" target="_blank">our privacy policy</a>. You can make a <a href="https://app-de.onetrust.com/app/#/webform/0c410d51-8e85-4308-9bb9-37c24a461ccb">Data Subject Request</a> at any time. Even if you choose not to have your activity tracked by third parties for advertising services, you will still see non-personalized ads on our site.</p>
+
+    <p>By clicking continue below and using our sites or applications, you agree that we and our third party advertisers can:</p>
+
+    <ul>
+      <li>transfer your personal data to the United States or other countries, and</li>
+      <li>process your personal data to serve you with personalized ads, subject to your choices as described above and in <a href="https://subscription.timeinc.com/storefront/privacy/marthastewart/generic_privacy_new.html" target="_blank">our privacy policy</a>.</li>
+    </ul>
+  </div>
+
+  <div class="gdpr-form-wrapper">
+    <form action="#" method="set" class="gdpr-form">
+      <input type="submit" class="btn" value="Continue" tabindex="0">
+    </form>
+    <p class="error"></p>
+  </div>
+</div>
+
+        <footer class="component footer-test">
+                
+                  <div
+                      id="div-gpt-related"
+                      data-tier="1"
+                    
+                    class="ad ad-container ad-wrapper type-gum-gum desktop-ad tablet-ad  karma-ad"
+                    data-dimensions="1x6" role="complementary" aria-hidden="true" tabindex="-1"></div>
+                
+        </footer>
+    
+    <div id="page-segment-values">
+      <div class="keyvals"
+          data-content_author_name=""
+          data-content_cms_sub_category=""
+          data-content_cms_id=""
+          data-content_featured_image=""
+          data-content_headline=""
+          data-content_modified_date=""
+          data-content_published_date=""
+          data-content_shown_on_platform="own"
+          data-content_type="gdpr"
+          data-path=""
+          data-referrer=""
+          data-content_is_post="index"
+          data-title=""
+          data-affiliate_link_count="0"
+          data-karma_id=""
+          data-video_id=""
+          data-content_cms_category=""
+          data-content_cms_tags=""
+          data-meredith_brand="marthastewart.com"
+          data-meredith_application="front end"
+          data-content_syndicated="false"
+          data-content_syndicated_brand=""
+          data-content_syndicated_url=""
+          data-content_nlp_sentiment_label=""
+          data-content_nlp_sentiment_score=""
+          data-content_nlp_sentiment_magnitude=""
+          data-content_nlp_entities=""
+          data-content_nlp_payload=""
+          data-content_nlp_categories=""
+      ></div>
+    </div>
+      <div id="site-components"
+        data-brand-sync="sharebar-save"
+        data-brand-async=""
+        data-core-sync="navigation,lazy-image,overlay,popup,line-clamp,gdpr,atg,auth,search-by-ingredient,user-auth"
+        data-core-async="video,feed,gallery,gallery-test,breadcrumbs,docked-sharebar,gallery-view-all,gallery-everything-in,dropdown,autofill-content-container,expander,outbrain,newsletter-signup-modal,vertical-gallery,search-results-form,embed-playbuzz,pinterest-board,pinterest-pin,topic-sub-nav,embed-facebook,embed-instagram,embed-twitter,build-a-meal,ecommerce-hub,content-loader,before-after,burst-text,bucket,progress-bar,amazon-price,image-zoom,embed-apester,glossary-header,embed-omnivirt,map-overlay,tabs,recirculation,share-new,circular-countdown,auto-advance,navigation-test,footer-test,topics-carousel,category-page-videos,category-page-list,recipe-ratings,ugc-reviews,ugc-upload,recipe-reviews,recipe-reviews-sort,recipe-ingredients-new,recipe-instructions-new,recipe-nutrition,print-preview,faceted-search-filters,image-link,saga,saga-ribbon,slider,search-results,alert-banner,entity-summary,sticky-action-bar,faceted-search-widget,ugc-comments,project-ratings,ugc-photo-upload,button-pdf,buying-information,recirculation-toaster,social-stories,call-to-action"
+      ></div>
+
+
+      <div class="component external-disclaimer" id="external-disclaimer" aria-hidden="true">
+        this link is to an external site that may or may not meet accessibility guidelines.
+      </div>
+
+
+        <div class="js-css-fonts" data-woff="/dist/stoneLeighfontWoff.css"
+          data-woff2="/dist/stoneLeighfontWoff2.css"
+          data-index="0"></div>
+        <div class="js-css-fonts" data-woff="/dist/lagufontWoff.css"
+          data-woff2="/dist/lagufontWoff2.css"
+          data-index="1"></div>
+      <script src="/dist/loadCssFonts.js"></script>
+
+  </body>
+</html>
